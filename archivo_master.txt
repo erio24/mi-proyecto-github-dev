@@ -1,1 +1,2 @@
 Contenido del archivo_master.txt en la rama principal.
+Nuevo contenido A para archivo_master.txt desde la copia.
