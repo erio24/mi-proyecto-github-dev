@@ -1,0 +1,1 @@
+Contenido del archivo_master.txt en la rama principal.
