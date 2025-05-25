@@ -1,1 +1,2 @@
 Contenido del archivo_dev.text en la rama de desarrollo
+Nuevo contenido B para archivo_dev.txt desde la copia.
